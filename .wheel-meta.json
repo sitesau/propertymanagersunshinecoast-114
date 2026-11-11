@@ -1,0 +1,22 @@
+{
+  "wheel_id": 874,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-114",
+  "project": "rental-property-managers-sunshine-coast-myths-f5b32785b6f65ed8a",
+  "parent_t1_ref": "propertymanagersunshinecoast-156",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental property managers sunshine coast myths",
+  "intended_url": "https://sitesau.github.io/propertymanagersunshinecoast-114/",
+  "tier": "T2",
+  "writeback_nonce": "0c22a11047e95590",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/rental-property-managers-sunshine-coast-planning-guide-aa213e16/",
+      "anchor": "this rental property managers sunshine coast planning guide resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
